@@ -2,7 +2,7 @@
 Project_one
 Team Members Corey, Yeni, Dainty, Krystal
 
-Project Title:
+Project Title: GO FUND YOURSELF: How changing attitudes help environmental fundraisers. 
 
 Hypothesis: With the changing mindset towards climate change and environmentalism we belive that more more eco-driven fundraisers are being launched and with greater success. 
 
