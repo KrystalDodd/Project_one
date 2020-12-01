@@ -16,8 +16,8 @@ Overall yearly change:
   - success % 
   - Total amount raised
 Age of the creators 
-Donations by State
-Launches by State
+Donations by State (Region)
+Launches by State (Region)
 Types of campaigns changes by year
 
 Rough breakdown of tasks:
