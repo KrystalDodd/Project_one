@@ -21,7 +21,7 @@ Launches by State (Region)
 Types of campaigns changes by year
 
 Rough breakdown of tasks:
-Data Retrieval: Corey     
+Data Retrieval: Corey Perkins
 Data Cleanup: Krystal
 Data Staging: Dainty
 Data Graphing/Numbers Presentation: Yeni
