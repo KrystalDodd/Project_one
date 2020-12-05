@@ -1,1 +1,1 @@
-Hello friends!
+print("Hello friends!")
