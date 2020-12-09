@@ -1,1 +1,0 @@
-yelp_key = "Q4VMm1uRj7KeIvqc1IS8e4DxqWqzoNyUCY_tvE9M5eql9ZPlcsNkyYfW3z9_CUNIOa_3zRAdCc29_6UxqtV4MKWRupjUkhdJPMjMqdR_mRR7fVZC6GnYmodrBj_IX3Yx"
