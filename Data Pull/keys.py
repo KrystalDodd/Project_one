@@ -1,1 +1,3 @@
 my_api_key = "ANN46mKbNdox3JenUq08MlOjXEqNsDNt71rKpaZwsceDlcfE012_OiylHMfgZsfXSiO5J7ORNuVxD_vXixknTHgq6GMDzJlfZu4Ywnl-KxABRTkn2atLNONB_z7IX3Yx"
+
+gkey = "AIzaSyA2UVvGX9Cdi-t8MPE48ylo9Bb_QediXYM"
