@@ -1,98 +1,99 @@
 ,Searched,Population,Total Restaurants,Vegan Restaurants,% Vegan Restaurants,Vegan Restaurants per capita
-0,"Andalusia village, Illinois",1148,7,0,0.0,0.0
-1,"Andrews town, North Carolina",1846,16,0,0.0,0.0
-2,"Anthony city, Kansas",2070,4,0,0.0,0.0
-3,"Arkoma town, Oklahoma",1899,189,0,0.0,0.0
-4,"Ashland city, Missouri",3968,13,0,0.0,0.0
-5,"Babylon village, New York",11992,614,4,0.6514657980456027,0.000333555703802535
-6,"Bay St. Louis city, Mississippi",14034,89,0,0.0,0.0
-7,"Beloit city, Wisconsin",36926,134,0,0.0,0.0
-8,"Benton town, New York",2750,34,0,0.0,0.0
-9,"Berryville town, Texas",1064,9,0,0.0,0.0
-10,"Bessemer borough, Pennsylvania",1051,15,0,0.0,0.0
-11,"Bishop city, Texas",3056,37,0,0.0,0.0
-12,"Bridgeport borough, Pennsylvania",4570,676,5,0.7396449704142012,0.0010940919037199124
-13,"Buhl city, Idaho",4507,24,0,0.0,0.0
-14,"Byron city, Minnesota",5639,14,0,0.0,0.0
-15,"Cadiz village, Ohio",3161,13,0,0.0,0.0
-16,"Castle Shannon borough, Pennsylvania",8216,915,3,0.32786885245901637,0.00036514118792599804
-17,"Cerro Gordo village, Illinois",1347,2,0,0.0,0.0
-18,"Cherry Valley town, New York",1151,10,1,10.0,0.0008688097306689834
-19,"Clear Lake Shores city, Texas",1215,359,0,0.0,0.0
-20,"Cleveland city, Oklahoma",3125,13,0,0.0,0.0
-21,"Clinton city, Tennessee",10075,63,0,0.0,0.0
-22,"Coupeville town, Washington",1972,42,0,0.0,0.0
-23,"Croswell city, Michigan",2286,12,0,0.0,0.0
-24,"Danville borough, Pennsylvania",4648,43,1,2.3255813953488373,0.0002151462994836489
-25,"Decorah city, Iowa",7576,43,0,0.0,0.0
-26,"Fayetteville village, New York",4044,122,0,0.0,0.0
-27,"Follansbee city, West Virginia",2710,117,0,0.0,0.0
-28,"Fort Plain village, New York",2224,29,1,3.4482758620689653,0.0004496402877697842
-29,"French Settlement village, Louisiana",1192,18,0,0.0,0.0
-30,"Germantown city, Ohio",5519,41,0,0.0,0.0
-31,"Glen Cove city, New York",27166,375,1,0.26666666666666666,3.681071928145476e-05
-32,"Greenville city, Kentucky",4204,24,0,0.0,0.0
-33,"Herrin city, Illinois",12687,79,0,0.0,0.0
-34,"Hialeah Gardens city, Florida",23474,885,6,0.6779661016949152,0.00025560194257476357
-35,"Holbrook city, Arizona",5084,30,0,0.0,0.0
-36,"Holly Springs city, Georgia",15442,255,0,0.0,0.0
-37,"Holyoke city, Colorado",2208,10,0,0.0,0.0
-38,"Hoopeston city, Illinois",5009,12,0,0.0,0.0
-39,"Itasca village, Illinois",9805,740,1,0.13513513513513514,0.00010198878123406426
-40,"Jackson city, Ohio",6230,32,0,0.0,0.0
-41,"Jeannette city, Pennsylvania",9074,147,0,0.0,0.0
-42,"Junction City city, Kansas",21482,65,0,0.0,0.0
-43,"Kimberly village, Wisconsin",6802,218,1,0.45871559633027525,0.00014701558365186709
-44,"Lake Hallie village, Wisconsin",6747,86,0,0.0,0.0
-45,"Lake in the Hills village, Illinois",28634,307,0,0.0,0.0
-46,"Lansford borough, Pennsylvania",3803,22,0,0.0,0.0
-47,"Lewiston city, Minnesota",1547,1,0,0.0,0.0
-48,"Litchfield borough, Connecticut",1205,84,2,2.380952380952381,0.0016597510373443983
-49,"Livonia village, New York",1460,23,0,0.0,0.0
-50,"Lonsdale city, Minnesota",4207,7,0,0.0,0.0
-51,"Madison borough, New Jersey",17654,518,3,0.5791505791505791,0.00016993315962388127
-52,"Manistee city, Michigan",6114,46,0,0.0,0.0
-53,"Mars borough, Pennsylvania",1612,110,0,0.0,0.0
-54,"Mary Esther city, Florida",4434,142,1,0.7042253521126761,0.0002255299954894001
-55,"Monrovia town, Indiana",1504,8,0,0.0,0.0
-56,"Montebello village, New York",4593,298,2,0.6711409395973155,0.00043544524276072284
-57,"Montgomery city, Minnesota",3050,6,0,0.0,0.0
-58,"Monticello village, Wisconsin",1202,33,0,0.0,0.0
-59,"Neptune City borough, New Jersey",4596,592,7,1.1824324324324325,0.0015230635335073978
-60,"Norwich town, Connecticut",38768,170,0,0.0,0.0
-61,"Oran city, Missouri",1215,1,0,0.0,0.0
-62,"Otsego city, Michigan",3994,47,0,0.0,0.0
-63,"Owenton city, Kentucky",1533,7,0,0.0,0.0
-64,"Palo city, Iowa",1066,8,0,0.0,0.0
-65,"Parshall city, North Dakota",1288,2,0,0.0,0.0
-66,"Patton borough, Pennsylvania",1598,22,0,0.0,0.0
-67,"Payette city, Idaho",7727,90,0,0.0,0.0
-68,"Pima town, Arizona",2558,3,0,0.0,0.0
-69,"Pineville city, Kentucky",1730,15,0,0.0,0.0
-70,"Plattsburgh city, New York",19515,108,0,0.0,0.0
-71,"Quincy city, Washington",8033,33,0,0.0,0.0
-72,"Ripon city, Wisconsin",7841,28,0,0.0,0.0
-73,"Rochelle city, Georgia",1103,1,0,0.0,0.0
-74,"Rolla city, North Dakota",1252,5,0,0.0,0.0
-75,"Salem Lakes village, Wisconsin",14852,55,0,0.0,0.0
-76,"Sheboygan city, Wisconsin",47965,205,0,0.0,0.0
-77,"Shoemakersville borough, Pennsylvania",1388,52,0,0.0,0.0
-78,"Sierra Madre city, California",10793,950,3,0.3157894736842105,0.0002779579356990642
-79,"Silsbee city, Texas",6617,29,0,0.0,0.0
-80,"St. Clair city, Michigan",5279,32,0,0.0,0.0
-81,"St. Johns city, Michigan",7945,34,0,0.0,0.0
-82,"Steelton borough, Pennsylvania",5962,553,3,0.5424954792043399,0.0005031868500503186
-83,"Surf City borough, New Jersey",1199,115,0,0.0,0.0
-84,"Taylor borough, Pennsylvania",5913,380,2,0.5263157894736842,0.00033823778116015557
-85,"Tivoli village, New York",1081,118,3,2.5423728813559325,0.0027752081406105457
-86,"Uintah town, Utah",1353,327,1,0.3058103975535168,0.0007390983000739098
-87,"Wapakoneta city, Ohio",9698,36,0,0.0,0.0
-88,"Washington Park village, Illinois",3865,78,0,0.0,0.0
-89,"Waterville city, Maine",16558,97,1,1.0309278350515463,6.0393767363208115e-05
-90,"Wauconda village, Illinois",13504,147,0,0.0,0.0
-91,"Weslaco city, Texas",41629,161,0,0.0,0.0
-92,"West Baraboo village, Wisconsin",1424,128,2,1.5625,0.0014044943820224719
-93,"West Buechel city, Kentucky",1272,792,8,1.0101010101010102,0.006289308176100629
-94,"Westbrook city, Maine",19074,350,0,0.0,0.0
-95,"Whitaker borough, Pennsylvania",1235,897,4,0.4459308807134894,0.0032388663967611335
-96,"Windber borough, Pennsylvania",3816,79,0,0.0,0.0
+0,"Americus, Georgia",15108,52,0,0.0,0.0
+1,"Anchorage, Kentucky",2423,508,2,0.39370078740157477,0.0008254230293025176
+2,"Anderson, California",10630,73,0,0.0,0.0
+3,"Ansonia, Ohio",1121,4,0,0.0,0.0
+4,"Anthony, New Mexico",9239,35,0,0.0,0.0
+5,"Antlers, Oklahoma",2321,9,0,0.0,0.0
+6,"Ball, Louisiana",3935,39,0,0.0,0.0
+7,"Bedford, Pennsylvania",2677,58,0,0.0,0.0
+8,"Belleville, Kansas",1879,10,0,0.0,0.0
+9,"Bloomfield, Wisconsin",4746,130,0,0.0,0.0
+10,"Blossom, Texas",1569,3,0,0.0,0.0
+11,"Brackettville, Texas",1686,11,0,0.0,0.0
+12,"Breckenridge, Texas",5423,22,0,0.0,0.0
+13,"Brookston, Indiana",1533,16,0,0.0,0.0
+14,"Camden, Delaware",3551,175,0,0.0,0.0
+15,"Carrington, North Dakota",1980,7,0,0.0,0.0
+16,"Cherryville, North Carolina",6072,26,0,0.0,0.0
+17,"Chittenango, New York",4850,28,0,0.0,0.0
+18,"Clarksburg, West Virginia",15225,112,0,0.0,0.0
+19,"Covington, Kentucky",40341,950,4,0.42105263157894735,9.915470613023971e-05
+20,"Creston, Iowa",7713,21,0,0.0,0.0
+21,"Curwensville, Pennsylvania",2385,16,0,0.0,0.0
+22,"DeQuincy, Louisiana",3086,11,0,0.0,0.0
+23,"Denison, Texas",25529,119,0,0.0,0.0
+24,"Dobson, North Carolina",1539,19,0,0.0,0.0
+25,"Eldon, Missouri",4706,28,0,0.0,0.0
+26,"Elk River, Minnesota",25213,77,0,0.0,0.0
+27,"Elmendorf, Texas",2150,26,1,3.8461538461538463,0.00046511627906976747
+28,"Elverson, Pennsylvania",1308,45,0,0.0,0.0
+29,"Emigration Canyon metroship, Utah",1592,114,0,0.0,0.0
+30,"Fort Plain, New York",2224,29,1,3.4482758620689653,0.0004496402877697842
+31,"Gorman, Texas",1035,6,0,0.0,0.0
+32,"Granville, West Virginia",3140,256,2,0.78125,0.0006369426751592356
+33,"Griggsville, Illinois",1150,3,0,0.0,0.0
+34,"Grosse Pointe Woods, Michigan",15332,453,3,0.6622516556291391,0.00019566918862509784
+35,"Grove City, Ohio",41820,447,1,0.22371364653243847,2.3912003825920613e-05
+36,"Hagerman, New Mexico",1220,1,0,0.0,0.0
+37,"Haledon, New Jersey",8293,950,5,0.5263157894736842,0.000602918123718799
+38,"Hamburg, New Jersey",3131,107,1,0.9345794392523363,0.00031938677738741617
+39,"Highland Heights, Ohio",8373,437,1,0.2288329519450801,0.00011943150603129105
+40,"Hondo, Texas",9436,34,0,0.0,0.0
+41,"Hortonville, Wisconsin",2912,18,0,0.0,0.0
+42,"Huron, South Dakota",13380,28,0,0.0,0.0
+43,"Kenilworth, Illinois",2475,730,2,0.273972602739726,0.0008080808080808081
+44,"Killian, Louisiana",1322,8,0,0.0,0.0
+45,"Kiryas Joel, New York",26813,143,1,0.6993006993006993,3.729534181180771e-05
+46,"La Center, Washington",3404,76,0,0.0,0.0
+47,"Lakeview, Michigan",1002,10,0,0.0,0.0
+48,"Lakewood Club, Michigan",1292,19,0,0.0,0.0
+49,"Lebanon, Oregon",17417,63,0,0.0,0.0
+50,"Levelland, Texas",13502,35,0,0.0,0.0
+51,"Magnolia, Texas",2093,126,0,0.0,0.0
+52,"Maharishi Vedic City, Iowa",1295,49,0,0.0,0.0
+53,"Manassa, Colorado",1001,2,0,0.0,0.0
+54,"Manti, Utah",3738,8,0,0.0,0.0
+55,"Marbleton, Wyoming",1111,5,0,0.0,0.0
+56,"Mission, Kansas",9911,950,6,0.631578947368421,0.0006053879527797396
+57,"Monticello, Indiana",5243,62,0,0.0,0.0
+58,"Monticello, Kentucky",5988,15,0,0.0,0.0
+59,"Mount Holly Springs, Pennsylvania",2052,25,0,0.0,0.0
+60,"Mount Pulaski, Illinois",1464,4,0,0.0,0.0
+61,"New Philadelphia, Pennsylvania",1031,27,0,0.0,0.0
+62,"North Prairie, Wisconsin",2228,36,0,0.0,0.0
+63,"Oak Grove, Louisiana",1553,6,0,0.0,0.0
+64,"Ocean Ridge, Florida",1956,604,5,0.8278145695364238,0.002556237218813906
+65,"Orinda, California",19926,676,4,0.591715976331361,0.00020074274816822243
+66,"Palmyra, Missouri",3599,10,0,0.0,0.0
+67,"Parchment, Michigan",1828,302,0,0.0,0.0
+68,"Parker, Arizona",3207,50,0,0.0,0.0
+69,"Pleasant Hill, Ohio",1254,8,0,0.0,0.0
+70,"Plum, Pennsylvania",27087,307,0,0.0,0.0
+71,"Plymouth, Indiana",9982,51,0,0.0,0.0
+72,"Princeton, Missouri",1099,3,0,0.0,0.0
+73,"Prophetstown, Illinois",1939,9,0,0.0,0.0
+74,"Riviera Beach, Florida",35463,713,8,1.1220196353436185,0.00022558723176268223
+75,"Rossville, Kansas",1124,2,0,0.0,0.0
+76,"South Nyack, New York",3316,511,3,0.5870841487279843,0.0009047044632086852
+77,"Sunray, Texas",1812,5,0,0.0,0.0
+78,"Tallulah, Louisiana",6666,11,0,0.0,0.0
+79,"Taylor Lake Village, Texas",3571,415,0,0.0,0.0
+80,"Tchula, Mississippi",1929,3,0,0.0,0.0
+81,"Temple, Georgia",4795,16,0,0.0,0.0
+82,"Thornton, Illinois",2401,395,1,0.25316455696202533,0.00041649312786339027
+83,"Tobaccoville, North Carolina",2718,76,0,0.0,0.0
+84,"Valparaiso, Indiana",33897,187,1,0.53475935828877,2.950113579372806e-05
+85,"Waldo, Arkansas",1265,5,0,0.0,0.0
+86,"Walkerton, Indiana",2256,19,0,0.0,0.0
+87,"Washington Park, Illinois",3865,950,9,0.9473684210526316,0.002328589909443726
+88,"Wathena, Kansas",1294,11,0,0.0,0.0
+89,"Waupun, Wisconsin",11199,20,0,0.0,0.0
+90,"Waveland, Mississippi",6302,103,0,0.0,0.0
+91,"West Jefferson, North Carolina",1315,50,0,0.0,0.0
+92,"West Liberty, Kentucky",3520,5,0,0.0,0.0
+93,"West Terre Haute, Indiana",2208,236,0,0.0,0.0
+94,"Winona, Minnesota",26594,86,0,0.0,0.0
+95,"Woodworth, Louisiana",1142,4,0,0.0,0.0
+96,"Zachary, Louisiana",17949,62,0,0.0,0.0
+97,"Zimmerman, Minnesota",5995,12,0,0.0,0.0
