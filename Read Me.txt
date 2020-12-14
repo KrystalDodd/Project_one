@@ -1,0 +1,15 @@
+Project One Rise of the Vegans
+
+Hello the below items are located in this folder for our final project information. We conducted a statistical analysis on the number
+of vegan resturnats in Urban vs Rural areas in relation to population size. This analysis was performed using a Jupyter notebook and Matplotlib
+to create visualizations for our hypothesis. 
+
+
+
+Final Project File Locations 
+
+Final Code: Yelp APi.ipynb
+
+Images: Project_one/Images
+
+Data Exploration & Clean-Up.ipynb
