@@ -4,11 +4,13 @@ Hello the below items are located in this folder for our final project informati
 of vegan resturnats in Urban vs Rural areas in relation to population size. This analysis was performed using a Jupyter notebook and Matplotlib
 to create visualizations for our hypothesis. 
 
-Final Project Presentation: Rise of the Vegans
+Final Project Presentation: Rise of the Vegans.pptx
 
 Final Project File Locations 
 
 Final Code: Yelp APi.ipynb
+
+Findings: Findings.docx
 
 Images: Project_one/Images
 
